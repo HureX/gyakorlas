@@ -36,10 +36,24 @@ height: 30px;
 }
 
 .newsletter h3  {
-
 margin-top: 0;
 
 
 }
 
-.ne
+.newsletter #terms {
+
+position: relative;
+top: 1px;
+}
+
+.newsletter #closex {
+position: absolute;
+top: 0;
+right: 4;
+}
+
+
+
+
+
